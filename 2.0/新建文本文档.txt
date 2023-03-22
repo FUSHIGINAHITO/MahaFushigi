@@ -1,0 +1,18 @@
+        self.chi_button = self.canvas.create_text(690, 350, text="吃", fill='red', font=('楷体', 100, 'bold'))
+        self.pon_button = self.canvas.create_text(690, 350, text="碰", fill='red', font=('楷体', 100, 'bold'))
+        self.kann_button = self.canvas.create_text(690, 350, text="槓", fill='red', font=('楷体', 100, 'bold'))
+        self.ron_button = self.canvas.create_text(690, 350, text="食", fill='red', font=('楷体', 100, 'bold'))
+        self.tsumo_button = self.canvas.create_text(690, 350, text="胡", fill='red', font=('楷体', 100, 'bold'))
+        self.cancel_button = self.canvas.create_text(500, 350, text="×", fill='red', font=('楷体', 100, 'bold'))
+万子（マンズ）?筒子（ピンズ）?索子（ソーズ）?字牌（ツーパイ）白板（パイパン）
+摸打（モウダ、モウター）自摸（ツモ）　　打牌（だはい）
+自摸和（ツモホー）
+和了（ホーラ）　「あがり」に相当する　　和（が）る/和了る（アガる）
+枪槓 (チャンカン)
+岭上开花 (リンシャンカイホウ) 杠上开花
+天和 (テンホー)
+放铳 (ほうじゅう、ホーチャン)
+连荘（レンチャン）
+立直が挂かる（リーチがかかる）
+対面（トイメン）
+嵌张（カンチャン）
